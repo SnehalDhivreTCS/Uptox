@@ -17,7 +17,7 @@ public class Local_Globle_____2 {
 		System.out.println(boo);
 		System.out.println(s);
 		
-		
+		System.out.println("hiiiii");
 		byte b = 100;
 		System.out.println(b);
 		
